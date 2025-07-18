@@ -49,7 +49,7 @@
 
 # Step 3-- Creating a demo replay data of each lot
 1> data_locations is created from each CSV file
-2> Then columns like like 't'(for timestamp) , 'day_dt'(Date at Midnight)
+2> Then columns like 't'(for timestamp) , 'day_dt'(Date at Midnight) are created
 
 # Step 4-- Creating a delta window
 1> First daily_stats window is created for computing max_demand and min_demand for a day(for each location)
