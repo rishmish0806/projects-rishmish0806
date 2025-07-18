@@ -12,4 +12,9 @@ A **content-based recommender system** that suggests movies based on cosine simi
 # 📈 ML Concepts Used
 Cosine Similarity, NLP, CountVectorizer
 
+## 📦 Installation  
+1. **Clone the repository**:  
+   ```bash
+   git clone https://github.com/rishmish0806/projects-rishmish0806.git
+   cd "projects-rishmish0806/Movie Recommender System" 
 
