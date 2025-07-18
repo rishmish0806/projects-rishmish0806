@@ -1,6 +1,6 @@
 # Project - Movie Recommender System
 
-# OverView -
+# 🧠 OverView -
 A **content-based recommender system** that suggests movies based on cosine similarity of NLP-processed features. Just select a movie, and get 5 tailored recommendations! 
 
 ## 🚀 Features  
@@ -9,7 +9,7 @@ A **content-based recommender system** that suggests movies based on cosine simi
 - **User-Friendly UI**: Built with **Streamlit** for easy interaction.  
 - **Precomputed Similarity**: Fast recommendations using a pre-built similarity matrix. 
 
-# ML Concepts Used
+# 📈 ML Concepts Used
 Cosine Similarity, NLP, CountVectorizer
 
 
