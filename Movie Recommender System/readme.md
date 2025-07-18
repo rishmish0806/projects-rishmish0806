@@ -9,7 +9,7 @@ A **content-based recommender system** that suggests movies based on cosine simi
 - **User-Friendly UI**: Built with **Streamlit** for easy interaction.  
 - **Precomputed Similarity**: Fast recommendations using a pre-built similarity matrix. 
 
-# ML Concept
+# ML Concepts Used
 Cosine Similarity, NLP, CountVectorizer
 
 
